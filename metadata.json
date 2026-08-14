@@ -1,0 +1,6 @@
+{
+  "name": "AI Placement Mentor",
+  "description": "Personalized AI Placement Preparation Platform by Team INNOVATRIX (AVS Engineering College)",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
